@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+
+  list-style: none;
+
+  user-select: none;
+}
+
+.main-container {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+}
+
+h1 {
+
+  background: red;
+  color: white;
+
+  text-align: center;
+
+}
+
+.chart-container {
+
+  width: 700px;
+
+  margin: auto;
+}
